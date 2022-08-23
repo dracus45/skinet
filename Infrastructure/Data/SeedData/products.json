@@ -1,0 +1,2122 @@
+[
+ {
+   "Id": 14,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "CHIRIE APRILIE 2017",
+   "Price": 569.75,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 0
+ },
+ {
+   "Id": 15,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Chirie Mai 2017",
+   "Price": 1173.94,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 21,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Chirie Iunie 2017",
+   "Price": 574.79,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 22,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Chirie septembrie 2017",
+   "Price": 150,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 23,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Chirie octombrie 2017 - Physio Experts",
+   "Price": 1700,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 24,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Chirie octombrie 2017 - Delfinii",
+   "Price": 300,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 25,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Chirie octombrie 2017 - Kineto Didactica",
+   "Price": 300,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 26,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Chirie noiembrie 2017 - Delfinii",
+   "Price": 300,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 27,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Chirie - Physio Experts",
+   "Price": 1700,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 28,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Chirie - Kineto Didactica ",
+   "Price": 250,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 29,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 1,
+   "Name": "Chirie - Soc. psihologie",
+   "Price": 50,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 30,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Chirie decembrie 2017",
+   "Price": 300,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 31,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare energie electrica oct. 2017",
+   "Price": 141.76,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 32,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare energie electrica nov. 2017",
+   "Price": 1227.5,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 33,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare energie electrica nov. 2017 ap.03",
+   "Price": 161.53,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 34,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare gaz nov. 2017 ap.03",
+   "Price": 1721.95,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 37,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Chirie 2019 - Delfinii",
+   "Price": 300,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 38,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare intretinere oct-nov 2017 - KD",
+   "Price": 115.97,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 39,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare intretinere oct-nov 2017 - PE",
+   "Price": 640.34,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 40,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Aparat GENU 3 SN:30247",
+   "Price": 6400,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 41,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare energie electrica febr 2018 - ap 3",
+   "Price": 171.03,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 42,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare gaz dec 2017 - febr 2018 - ap 3",
+   "Price": 2271.88,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 52,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare gaz - regularizare Aug-febr2018 - ap 59",
+   "Price": 2402.34,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 53,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare gaz - febr2018 - ap 59",
+   "Price": 936.44,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 54,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica dec-ian2018 - ap 59",
+   "Price": 152.09,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 55,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica feb2018 - ap 59",
+   "Price": 176.34,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 56,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica dec2017 - ap 3",
+   "Price": 216.62,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 57,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica ian2018 - ap 3",
+   "Price": 199.89,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 58,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 16.02-26.03.2018",
+   "Price": 1777.56,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 59,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 16.02-26.03.2018 ap 59",
+   "Price": 1770.99,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 60,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.03-31.03.2018 ap 3",
+   "Price": 215.92,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 61,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 27.03-23.04.2018 - ap 59",
+   "Price": 147.54,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 62,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.04-30.042018 ap 3",
+   "Price": 122.29,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 63,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere februarie 2018",
+   "Price": 400,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 64,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Cota intretinere ap 59 - martie",
+   "Price": 274.12,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 65,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Cota intretinere ap 3 - febr, martie",
+   "Price": 102.35,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 66,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica ap 59 - 24.04-23.05",
+   "Price": 382.65,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 67,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.06.2018 - 30.06.2018 - ap 3",
+   "Price": 118.1,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 68,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 24.05.2018 - 25.06.2018 ap 59",
+   "Price": 620.95,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 69,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.05.2018 - 31.05.2018 - ap 3",
+   "Price": 106.87,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 70,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere apr-mai 2018 - ap 3",
+   "Price": 169,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 71,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere apr-mai 2018 - ap 59",
+   "Price": 907.8,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 72,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere iunie 2018 - ap 3",
+   "Price": 84.4,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 73,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere iunie 2018 - ap 59",
+   "Price": 435.9,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 74,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.07.2018 - 31.07.2018 - ap 3",
+   "Price": 151.65,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 75,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 26.06.2018 - 22.07.2018 - ap 59",
+   "Price": 379.85,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 76,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere iulie 2018 - ap 3",
+   "Price": 96.6,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 77,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere iulie 2018 - ap 59",
+   "Price": 434.3,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 78,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare gaz regularizare 26.05 -28.08.2018 ",
+   "Price": 710.9,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 79,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.08-31.08.2018 ap 3",
+   "Price": 26.33,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 80,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 23.07-22.08.2018 ap 59",
+   "Price": 466.36,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 81,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica01.08-31.08.2018 ap 3",
+   "Price": 26.33,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 82,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 23.08-25.09.2018 ap 59",
+   "Price": 527.26,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 83,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere august 2018 - ap 3",
+   "Price": 91.8,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 84,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere august 2018 - ap 59",
+   "Price": 396.6,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 85,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare electrica 23.08-25.09.2018 ap 59",
+   "Price": 527.26,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 86,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare electrica 01.09-30.09.2018 ap 3",
+   "Price": 141.16,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 87,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare gaz iunie 2018 - ap 59",
+   "Price": 3054.79,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 88,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare gaz iunie 2018 - ap 3",
+   "Price": 90.91,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 89,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Regularizare en electrica ap 3",
+   "Price": 125.33,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 90,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere ap 59 - sept 2018",
+   "Price": 399.9,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 91,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere ap 3 - sept 2018",
+   "Price": 91.5,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 92,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 26.10-25.11.2019 ap 59",
+   "Price": 523.29,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 93,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.10-31.10.2018 ap 3",
+   "Price": 169.26,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 94,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "MP-50 Storz Shock Wave (cf contract)",
+   "Price": 6722.69,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 95,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare gaz 29.08.2018 - 24.11.2018",
+   "Price": 1610.77,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 96,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere decembrie 2018 ap 59",
+   "Price": 407.2,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 97,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere decembrie 2018 ap 3",
+   "Price": 102.2,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 98,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 19.12-19.01.2019 ap 59",
+   "Price": 560.78,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 99,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 20.01.-18.02.2019 ap 59",
+   "Price": 534.01,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 100,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.01.-31.02.2019 ap 3",
+   "Price": 328.87,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 101,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere ianuarie 2019 ap 3",
+   "Price": 103.4,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 102,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere ianuarie 2019 ap 59",
+   "Price": 367.8,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 103,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 26.09.2018 - 25.10.2018 - ap 59",
+   "Price": 509.32,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 104,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 26.11.2018 - 18.12.2018 - ap 59",
+   "Price": 264.29,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 105,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.11.2018 - 30.11.2018 - ap 3",
+   "Price": 238.93,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 106,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.12.2018 - 31.12.2018 - ap 3",
+   "Price": 254.45,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 107,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere noiembrie 2018 ap 59",
+   "Price": 397.9,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 108,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere noiembrie 2018 ap 3",
+   "Price": 87.5,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 109,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere octombrie 2018 ap 59",
+   "Price": 416.56,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 110,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere octombrie 2018 ap 3",
+   "Price": 104.14,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 111,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere februarie 2019 ap 3",
+   "Price": 104.6,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 112,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere februarie 2019 ap 59",
+   "Price": 410.9,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 113,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.02-28.02.2019 ap 3",
+   "Price": 249.99,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 114,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 19.02-26.03.2019 ap 59",
+   "Price": 1316.06,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 115,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare gaz regularizare 25.11.2018 - 23.02.2019",
+   "Price": 4959.12,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 116,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.03-31.03.2019 - ap 3",
+   "Price": 206.4,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 117,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere martie 2019 KD",
+   "Price": 103.1,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 118,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere martie 2019 PHE",
+   "Price": 400.6,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 119,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 1,
+   "Name": "Chirie Kineto Didactica 2019",
+   "Price": 200,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 120,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 1,
+   "Name": "Chirie Physio Experts 2019",
+   "Price": 2750,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 121,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere aprilie 2019 ap 3",
+   "Price": 75.5,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 122,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere aprilie 2019 ap 59",
+   "Price": 320.5,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 123,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.05-31.05.2019",
+   "Price": 146.04,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 124,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare gaz regularizare 24.02-27.05.2019",
+   "Price": 3526.02,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 125,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 26.05 - 26.06.2019 ap 59",
+   "Price": 587.18,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 126,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Storno - Refacturare en electrica 01.05-31.05.2019",
+   "Price": -146.04,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 127,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 1,
+   "Name": "Chirie Kineto Didactica - Clabucet",
+   "Price": 300,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 128,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 2,
+   "Name": "Sustinatori plantari",
+   "Price": 229.36,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 9
+ },
+ {
+   "Id": 129,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere mai 2019 ap 59",
+   "Price": 339.4,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 130,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere mai 2019 ap 3",
+   "Price": 73.5,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 131,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 28.04.2019 - 25.05.2019 - ap 59",
+   "Price": 534.67,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 132,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 27.03.2019 - 27.04.2019 - ap 59",
+   "Price": 598.75,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 133,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 27.06.2019 - 24.07.2019 - ap 59",
+   "Price": 561.06,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 134,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.07.2019 - 31.07.2019 - ap 3",
+   "Price": 181.68,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 135,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.04.2019 - 30.04.2019 - ap 3",
+   "Price": 162.17,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 136,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.05.2019 - 31.05.2019 - ap 3",
+   "Price": 146.04,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 137,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.06.2019 - 30.06.2019 - ap 3",
+   "Price": 180.72,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 138,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacurare intretinere iunie-iulie 2019 - ap 3",
+   "Price": 150.3,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 139,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacurare intretinere iunie-iulie 2019 - ap 59",
+   "Price": 665.6,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 140,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare gaz regularizare 28.05-26.08.2019",
+   "Price": 150.65,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 141,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.08-31.08.2019 ap 3",
+   "Price": 214.08,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 142,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 25.07-24.08.2019 ap 59",
+   "Price": 632.59,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 143,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 2,
+   "Name": "Transport",
+   "Price": 20.5,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 144,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere august 2019 - ap 59",
+   "Price": 359.7,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 145,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere august 2019 - ap 3",
+   "Price": 82.6,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 146,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.09-30.09.2019 ap 3",
+   "Price": 155.45,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 147,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 25.08-26.09.2019 ap 59",
+   "Price": 551.9,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 148,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere septembrie 2019 ap 3",
+   "Price": 82.3,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 149,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere septembrie 2019 ap 59",
+   "Price": 367.3,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 150,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 27.09.2019 - 25.10.2019 - ap 59",
+   "Price": 593.43,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 151,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 2,
+   "Name": "Sustinatori plantari - KD",
+   "Price": 321.1,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 9
+ },
+ {
+   "Id": 152,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.10.2019 - 31.10.2019 - ap 3",
+   "Price": 218.13,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 153,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 1,
+   "Name": "Chirie CRIO",
+   "Price": 100,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 154,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere octombrie - KD",
+   "Price": 95.5,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 155,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare intretinere octombrie - PhE",
+   "Price": 441.9,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 156,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 26.10.2019 - 25.11.2019 - ap 59",
+   "Price": 641.85,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 157,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.11.2019 - 30.11.2019 - ap 3",
+   "Price": 159.6,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 158,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare gaz regularizare 27.08.2019 - 23.11.2019 - ap 59",
+   "Price": 1188.55,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 159,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.12.2019-31.12.2019 ap 3",
+   "Price": 177.8,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 160,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 26.11.2019 - 21.12.2019 ap 59",
+   "Price": 548.5,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 161,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 22.12.2019 - 18.01.2020 - ap 59",
+   "Price": 602.84,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 162,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 26.11.2019 - 21.12.2019 - ap 59",
+   "Price": 548.5,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 163,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Refacturare en electrica 01.12.2019 - 31.12.2019 - ap 3",
+   "Price": 177.8,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 164,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare intretinere dec 2019 - ap 59",
+   "Price": 392.9,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 165,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare intretinere dec 2019 - ap 3",
+   "Price": 95.1,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 166,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 1,
+   "Name": "Chirie - Soc. psihologie 2020",
+   "Price": 5,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 167,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare intretinere ianuarie 2020 - ap 3",
+   "Price": 145.4,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 168,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare intretinere ianuarie 2020 - ap 59",
+   "Price": 440,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 169,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare gaz regularizare 24.11.2019-24.02.2020",
+   "Price": 5888.88,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 170,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare electrica 22.12.2019 - 18.01.2020 ap 59",
+   "Price": 602.84,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 171,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare electrica 01.02.2020 - 29.02.2020 ap 3",
+   "Price": 186.97,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 172,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 19.02.2020 - 26.03.2020 - ap 59",
+   "Price": 719.91,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 173,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 01.03.2020 - 31.03.2020 ap 3",
+   "Price": 149.74,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 174,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 01.01.2020 - 31.01.2020 ap 3",
+   "Price": 199.89,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 175,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Regularizare en electrica 22.12.2019 - 18.01.2020 ap 59 ",
+   "Price": 51.28,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 176,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 27.03.2020 - 25.04.2020 ap 59",
+   "Price": 602.85,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 177,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refaacturare en electrica 01.04.2020 - 30.04.2020 - ap 3",
+   "Price": 122.84,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 178,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 26.04.2020 - 25.05.2020 - ap 59",
+   "Price": 604.12,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 179,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 01.05.2020 - 31.05.2020 ap 3",
+   "Price": 157.79,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 180,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare gaz regularizare 25.02.2020 - 25.05.2020",
+   "Price": 1328.35,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 181,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 01.06.2020 - 30.06.2020 - ap 3",
+   "Price": 143.06,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 182,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 27.06.2020 - 24.07.2020 - ap 59",
+   "Price": 417.5,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 183,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "Diferente curs valutar cf contract Nr. 1 din 01.12.2018",
+   "Price": 53.78,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 184,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare gaze naturale - regularizare 26.05-26.08",
+   "Price": 782.66,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 185,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 25.07-24.08 - ap 59",
+   "Price": 559.77,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 186,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 01.07-31.07 ap 3",
+   "Price": 180.76,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 187,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare electrica 01.08-31.08 ap 3",
+   "Price": 242.26,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 188,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare electrica 25.08-25.09.20 - ap 59",
+   "Price": 565.43,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 189,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 01.09.2020 - 30.09.2020 ap 3",
+   "Price": 175,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 190,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare electrica 26.09.2020 - 25.10.2020 ap 59",
+   "Price": 535.27,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 191,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare electrica 01.10.2020 - 24.10.2020 ap 3",
+   "Price": 108.99,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 192,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 26.10.2020 - 25.11.2020 - ap 59",
+   "Price": 549.89,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 193,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 25.10.2020 - 23.11.2020 - ap 3",
+   "Price": 176.88,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 194,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare gaz regularizare 27.08.2020 - 21.11.2020",
+   "Price": 1628.45,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 195,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 26.11.2020 - 21.12.2020 - ap 59",
+   "Price": 453.88,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 196,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 24.11.2020 - 27.12.2020 - ap 3",
+   "Price": 384.69,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 197,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 28.12.20-24.01.21 ap 3",
+   "Price": 353.96,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 198,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 22.12.20-18.01.21 ap 59",
+   "Price": 483.55,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 199,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 25.01.2021 - 24.02.2021 - ap 3",
+   "Price": 504.29,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 200,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare gaz - regularizare 22.11.2020 -22.02.2021 - ap 59",
+   "Price": 3638.71,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 201,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 25.02.2021 - 26.03.2021 - ap 3",
+   "Price": 465.17,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 202,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 19.02-28.03.2020 ap 59",
+   "Price": 620.16,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 203,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "PC PROCESOR AMD RYZEN",
+   "Price": 4500,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 204,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "APARAT DE FACUT TALONETI II/20",
+   "Price": 23500,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 205,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "APARAT DE MASURAT TALPI IV/54",
+   "Price": 23500,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 206,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 3,
+   "Name": "POLIZOR ORTOFIT",
+   "Price": 2700,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 207,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 1,
+   "Name": "Blocuri prelucrare talonete",
+   "Price": 69.45,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 208,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare enelectrica 27.03.2021 - 22.04.2021 - ap 3",
+   "Price": 369.35,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 209,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare enelectrica 29.03.2021 - 25.04.2021 - ap 59",
+   "Price": 429.1,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 210,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica regularizare - ap 59",
+   "Price": 527.38,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 211,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare electrica 26.04.2021 - 25.05.2021 - ap 59",
+   "Price": 476.63,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 212,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare electrica 23.04.2021 - 26.05.2021 - ap 3",
+   "Price": 204.2,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 213,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare gaz 23.02.2021 - 25.05.2021 - ap 59",
+   "Price": 2909.32,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 214,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 26.05-28.06.2021",
+   "Price": 3028.88,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 215,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 27.05-25.06.2021 - ap 3",
+   "Price": 257.94,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 216,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare electrica 29.06.2021 - 24.07.2021 ap 59",
+   "Price": 687.63,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 217,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 26.06.2021 - 24.07.2021 - ap 3",
+   "Price": 157.08,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 218,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare gaz regularizare 26.05.2021 - 27.08.2021",
+   "Price": 161.95,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 219,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "refacturare en electrica 25.07.2021 - 24.08.2021 ap 59",
+   "Price": 842.66,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 220,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "refacturare en electrica 25.07.2021 - 25.08.2021 ap 3",
+   "Price": 322.7,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 221,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 1,
+   "Name": "Chirie Physio Experts - Mihai Viteazul",
+   "Price": 100,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 222,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare gaz 28.08.2021 - 28.09.2021",
+   "Price": 261.67,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 223,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 1,
+   "Name": "Chirie Physio Experts - Mihai Viteazu",
+   "Price": 100,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 19
+ },
+ {
+   "Id": 224,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 26.08.2021 - 25.09.2021 ap 3",
+   "Price": 168.51,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 225,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 25.08.2021 - 24.10.2021 - ap 59",
+   "Price": 1696.67,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 226,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 26.09.2021 - 23.10.2021 - ap 3",
+   "Price": 181.85,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 227,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare gaz 29.09.2021 - 28.10.2021 - ap 59",
+   "Price": 684.12,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 228,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare gaz 23.10.2021 - 12.11.2021",
+   "Price": 691.45,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 229,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare gaz 28.08-26.26.11.21",
+   "Price": 1094.8,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 230,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare electrica 24.10-24.11.21",
+   "Price": 360.33,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 231,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 25.11-28.12.2021 ap 3",
+   "Price": 320.88,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 232,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 25.10-24.11.2021 ap 59",
+   "Price": 897.82,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 233,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare gaz 13.11.2021 - 15.12.2021 ap 59",
+   "Price": 2692.84,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 234,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 4,
+   "Name": "Refacturare en electrica 23.11.2021 - 22.12.2021 - MV",
+   "Price": 155.44,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 235,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 5,
+   "Name": "Masa masaj Medmal alu 60",
+   "Price": 2190,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 236,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 5,
+   "Name": "Perna semirotunda 40x25x5",
+   "Price": 65,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 237,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 5,
+   "Name": "Simply Carry Case 180/60",
+   "Price": 176,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 238,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 5,
+   "Name": "Protective Table Cover C460 180x60 beige",
+   "Price": 205,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 239,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 1,
+   "Name": "Protective 2D Facerest Cover",
+   "Price": 65,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 240,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 5,
+   "Name": "Protective 2D Facerest Cover",
+   "Price": 65,
+   "Um": "buc",
+   "Currency": 1,
+   "Vat": 19
+ },
+ {
+   "Id": 242,
+   "ProductCompanyId": 6,
+   "ProductCategoryId": 5,
+   "Name": "name",
+   "Price": 200,
+   "Um": "buc",
+   "Currency": 2,
+   "Vat": 17
+ }
+]

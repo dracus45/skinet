@@ -1,0 +1,25 @@
+[
+ {
+   "Id": 6,
+   "Name": "S.C. Kinetic Rent S.R.L.",
+   "Address": "Constantin Lacea nr 41",
+   "City": "Brasov",
+   "CompanyCountyId": 8,
+   "Bank1": "BANCA ROMANA DE DEZVOLTARE",
+   "Account1": "RO97BRDE080SV51646610800",
+   "Bank2": "",
+   "Account2": "",
+   "Bank3": "",
+   "Account3": "",
+   "Cui": "RO36389988",
+   "Register": "J08/1622/2016",
+   "InvoiceSeries": "KIR",
+   "InvoiceFirst": 8,
+   "InvoiceLast": 282,
+   "ReceiptFirst": 8,
+   "ReceiptLast": 115,
+   "ReceiptSeries": "KIR",
+   "VAT": 19,
+   "LogoUrl": "logo_kr.jpg"
+ }
+]
